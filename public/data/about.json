@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "About",
+    "description": "This is the About page of our react-wordpress App"
+  },
+  "modules": [ {
+    "type": "Editorial",
+    "title": "Hello, this is the About Page",
+    "abstract": "Consectetur irure dolor dolore velit commodo."
+  } ]
+}

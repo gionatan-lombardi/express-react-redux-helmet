@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "title": "Homepage",
+    "description": "Homepage of our react-wordpress App"
+  },
+  "modules": [ {
+    "type": "Intro",
+    "title": "Hello, this is the Homapage",
+    "subtitle": "Wellcome my guest.",
+    "abstract": "Consectetur irure dolor dolore velit commodo. Velit excepteur enim laborum occaecat qui exercitation eiusmod ea. Ea esse exercitation anim exercitation. Nulla anim aliquip incididunt ullamco occaecat officia voluptate esse anim irure velit adipisicing est et. Reprehenderit mollit eiusmod velit ullamco proident cillum dolore. Proident fugiat et proident id exercitation aliqua consequat elit sint ut excepteur in cillum. Aliquip sint sint dolore nostrud quis qui minim occaecat incididunt ex labore."
+  },{
+    "type": "Aside",
+    "title": "Aside Module",
+    "image-src": "https://placeimg.com/640/480/arch"
+  } ]
+}

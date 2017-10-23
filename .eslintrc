@@ -1,0 +1,25 @@
+{
+  "env": {
+    "es6" : true,
+    "browser" : true
+  },
+  "extends" : "airbnb",
+  "rules" : {
+    "no-unused-vars": 1,
+    "no-var": 1,
+    "vars-on-top": 1,
+    "no-param-reassign": 0,
+    "no-cond-assign": 0,
+    "no-plusplus": 0,
+    "no-underscore-dangle": 0,
+    "no-use-before-define": 1,
+    "max-len": ["warn", 100],
+    "object-property-newline": 1,
+    "no-mixed-operators": 1,
+    "jsx-a11y/href-no-hash": "off",
+    "jsx-a11y/anchor-is-valid": ["warn", { "aspects": ["invalidHref"] }],
+    "global-require": 0,
+    "react/prefer-stateless-function": 0,
+    "react/jsx-filename-extension": 0,
+  }
+}

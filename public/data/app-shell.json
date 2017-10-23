@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "items": [
+      {
+        "label": "home",
+        "link": "/static/home"
+      },
+      {
+        "label": "about",
+        "link": "/static/about"
+      }
+    ]
+  }
+}
