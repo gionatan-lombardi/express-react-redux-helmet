@@ -2,7 +2,7 @@
 
 Simple express boilerplate for React server side rendering with Redux and Helmet.
 
-Based upon the express-react-redux library of Daishi Kato.
+Based upon the [express-react-redux library](https://github.com/dai-shi/express-react-redux) by [Daishi Kato](https://github.com/dai-shi).
 
 ## How to use
 
